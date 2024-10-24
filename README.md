@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm REJAUL ISLAM
 
-![I am a full-stuck web development ( student )](https://www.linkedin.com/in/rejaul-islam-00165a317/overlay/background-image/)
+![I am a full-stuck web development ( student )] 
 
 👑 I am a Web Developer <br> 
 🖊️ Love to write code and Poetry <br> 
