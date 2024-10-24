@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm REJAUL ISLAM
 
- <a href="https://facebook.com/mrreja.me">
-<img src="https://www.linkedin.com/in/rejaul-islam-00165a317/overlay/background-image/" />
+ <a href="https://facebook.com/mrreja.me" target="__black">
+<img src="https://www.facebook.com/photo/?fbid=578167644773272&set=a.116121037644604" />
 </a>
 
 👑 I am a Web Developer <br> 
