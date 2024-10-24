@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm REJAUL ISLAM
 
-![Your Banner Description](https://raw.githubusercontent.com/shovoalways/shovoalways/refs/heads/main/img/bg.jpg)
+![Your Banner Description]( )
 
 
 👑 I am a Web Developer <br> 
