@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm REJAUL ISLAM
 
-![Your Banner Description]( )
+![Your Banner Description](https://raw.githubusercontent.com/rejaul48/rejaul48/refs/heads/main/rejaul_islam_banner-01.jpeg)
 
 
 👑 I am a Web Developer <br> 
