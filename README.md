@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm REJAUL ISLAM
 
- <a href="https://facebook.com/mrreja.me" target="_blank">
-<img src="https://i.ibb.co.com/26wPy1K/IMG20231223132044-01.jpg" />
-</a>
+![Your Banner Description](https://raw.githubusercontent.com/shovoalways/shovoalways/refs/heads/main/img/bg.jpg)
+
 
 👑 I am a Web Developer <br> 
 🖊️ Love to write code and Poetry <br> 
