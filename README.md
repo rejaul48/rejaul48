@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm REJAUL ISLAM
 
-![I am a full-stuck web development ( student )](https://media.licdn.com/dms/image/v2/D5616AQG2xpPipKJaWg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724517684438?e=1729728000&v=beta&t=VrDy575A0M_lQj-bGroitw-nzNsfv4hs6Srp_QmQviA)
+![I am a full-stuck web development ( student )]([https://media.licdn.com](https://www.linkedin.com/in/rejaul-islam-00165a317/overlay/background-image/)/dms/image/v2/D5616AQG2xpPipKJaWg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724517684438?e=1729728000&v=beta&t=VrDy575A0M_lQj-bGroitw-nzNsfv4hs6Srp_QmQviA)
 
 👑 I am a Web Developer <br> 
 🖊️ Love to write code and Poetry <br> 
