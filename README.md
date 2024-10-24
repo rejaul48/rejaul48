@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm REJAUL ISLAM
 
- <a href="https://facebook.com/mrreja.me" target="_black">
+ <a href="https://facebook.com/mrreja.me" target="_blank">
 <img src="https://www.facebook.com/photo/?fbid=578167644773272&set=a.116121037644604" />
 </a>
 
