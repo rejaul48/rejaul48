@@ -19,9 +19,9 @@ Aspiring full-stack web developer passionate about creating seamless digital exp
   ⚡ Fun fact: I am a Poet <br> <br>
 
 ## 👨‍💻 Skills & Experiance: 
-✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind / Jquery / React <br>
-✅ Basic of JavaScript <br>
-✅ Figma <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap / Jquery / Tailwind  / React <br>
+✅ Basic - Intermediate of JavaScript <br>
+✅ Basic of Figma <br>
 ✅ Basic of PHP <br> 
 ✅ Basic of WordPress <br> 
  
