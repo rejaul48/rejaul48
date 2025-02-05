@@ -1,8 +1,8 @@
+
+
+![my-info-banner]([https://raw.githubusercontent.com/rejaul48/rejaul48/refs/heads/main/rejaul_islam_banner-01.jpeg](https://github.com/rejaul48/rejaul48/blob/main/github_banner_image.png?raw=true))
+
 ### Hi there 👋, I'm REJAUL ISLAM
-
-![my-info-banner](https://raw.githubusercontent.com/rejaul48/rejaul48/refs/heads/main/rejaul_islam_banner-01.jpeg)
-
-
 👑 I am a Web Developer <br> 
 🖊️ Love to write code and Poetry <br> 
 🎤 Like to Share My Skills </p> 
