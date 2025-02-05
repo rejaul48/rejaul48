@@ -4,8 +4,8 @@
 
 ###
 
-<h1 align="left">Hey there👋 This is Rejaul Islam <span align="left"> <small>Junior Web Developer</small> </span></h1> 
-
+# Hey there👋 This is Rejaul Islam
+### Junior Web Developer
 
 
 ###
