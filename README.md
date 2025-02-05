@@ -67,6 +67,10 @@
   <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=rejaul48&theme=dark" alt="GitHub Streak">
 </a>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejaul48&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+ 
+  
 </div>
 
 ###
