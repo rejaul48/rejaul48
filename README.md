@@ -17,13 +17,13 @@
 
 ## 🚀 Current Activities  
 
-- 🔍 Exploring **Next.js** to enhance my full-stack development skills  
-- 🌐 Working on a **tourism website** to improve my front-end and back-end integration  
-- 💡 Learning **advanced React concepts** and optimizing performance in web applications  
-- 🔐 Implementing **Firebase authentication** for secure user logins  
-- 🖥️ Building a **computer club website** for my institute to encourage tech learning  
-- 📡 Researching **IOT-based systems** it's real-world applications for modern Agricultur
-- 🌱 Preparing for my **7th Semester of diploma** while balancing my development projects  
+🔍 Exploring **Next.js** to enhance my full-stack development skills  
+🌐 Working on a **tourism website** to improve my front-end and back-end integration  
+💡 Learning **advanced React concepts** and optimizing performance in web applications  
+🔐 Implementing **Firebase authentication** for secure user logins  
+🖥️ Building a **computer club website** for my institute to encourage tech learning  
+📡 Researching **IOT-based systems** it's real-world applications for modern Agricultur
+🌱 Preparing for my **7th Semester of diploma** while balancing my development projects  
 
 ###
 
