@@ -4,8 +4,8 @@
 
 ###
 
-<h1 align="left">Hey there👋 This is Rejaul Islam</h1>
-<p align="left">Junior Web Developer</p>
+<h1 align="left">Hey there👋 This is Rejaul Islam <span><p align="left">Junior Web Developer</p></span></h1> 
+
 
 ###
 
@@ -65,14 +65,14 @@
 
 ###
 
-<h2 align="left">Connect With Me:</h2>
+<h2 align="center">Connect With Me:</h2>
 
 ###
 
-<div align="left">
+<div align="center">
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/rejaulislam48" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
