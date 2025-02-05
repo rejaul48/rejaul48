@@ -2,11 +2,9 @@
   <img height="320" src="https://github.com/rejaul48/rejaul48/blob/main/github_banner_image.png?raw=true"  />
 </div>
 
-###
-
 # Hey there👋 This is Rejaul Islam
 ### Junior Web Developer
-
+###
 
 ###
 
