@@ -2,11 +2,12 @@
   <img height="320" src="https://github.com/rejaul48/rejaul48/blob/main/github_banner_image.png?raw=true"  />
 </div>
 
-# Hey there👋 This is Rejaul Islam
-### Junior Web Developer
-###
+# Hey there👋 This is **Rejaul Islam**  
+### Junior Web Developer  
 
-###
+---
+
+
 
 <p align="left">I am a Front-End Web Developer with expertise in JavaScript, React.js, Next.js, and Tailwind CSS. Nowadays, I mainly work with the Next.js framework for full-stack applications. However, I am also comfortable working with React and tailwind css for Front-End and MongoDB, Firebase, and Express.js for Back-End Development. I am passionate about building modern, responsive web applications with a strong focus on design and performance. I believe in continuous learning and improvement, embracing new challenges every day. 🚀</p>
 
